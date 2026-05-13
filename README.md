@@ -16,6 +16,7 @@ I am also trying to be as active on TryHackMe as possible. My goal is to complet
 Feel free to contact me about anything :) 
 
 I am happy to help and am looking forward to making new connections along this new journey.
+
 ejaredpaul@gmail.com
 <!--
 **ethannpaul/ethannpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
