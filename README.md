@@ -10,9 +10,11 @@ Furthermore I am attempting to further my knowledge and skills by investing my f
 - Microsoft SC-900
 - CompTIA Security+
 - eJPT
+
 I am also trying to be as active on TryHackMe as possible. My goal is to complete as many labs as I can, however along the way I may pick up a few of their new certifications as I feel they can show hands-on work and round out the pure theory of the other certs.
 
 Feel free to contact me about anything :) 
+
 I am happy to help and am looking forward to making new connections along this new journey.
 ejaredpaul@gmail.com
 <!--
