@@ -6,16 +6,15 @@ At the moment I am currently just starting out on the personal project side of t
 - Windows Server Lab
 - Public Health Simulation Website
 
-Furthermore I am attempting to further my knowladge and skills by investing my free time into working towards certifications. My current certification goals are:
+Furthermore I am attempting to further my knowledge and skills by investing my free time into working towards certifications. My current certification goals are:
 - Microsoft SC-900
-- Comptia Security+
+- CompTIA Security+
 - eJPT
-I am also trying to be as active on TryHackMe as possible. My goal is to complete as many labs as I can, however along the way I may pick up a few of their new certifications as I feel they can show hands-on work compared to the theory of the other certifications which should round out my qualifications.
-
-If you have any tips on how to help me on my journey or just in general feel free to let me know, I will accept any feedback I can get.
+I am also trying to be as active on TryHackMe as possible. My goal is to complete as many labs as I can, however along the way I may pick up a few of their new certifications as I feel they can show hands-on work and round out the pure theory of the other certs.
 
 Feel free to contact me about anything :) 
-I am happy to help and am looking foward to making new connections along this new journey.
+I am happy to help and am looking forward to making new connections along this new journey.
+ejaredpaul@gmail.com
 <!--
 **ethannpaul/ethannpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
